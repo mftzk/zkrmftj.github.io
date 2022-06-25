@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Sambutan Sambutan"
 date: 2022-06-25 12:22:00 +0700
 categories: sambutan
