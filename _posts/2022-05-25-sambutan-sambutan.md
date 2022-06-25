@@ -40,6 +40,13 @@ dari teks yang luas terlebih dulu, kemudian dilanjutkan ke teks yang lebih spesi
 ### Lebih hati hati
 karena emang menulis perlu memperhatikan kata kata yang dipilih, tanda baca yang sesuai, struktur teks, jadi nambah latihan kehati hatian.
 
----
->**kalo semisal ada lagi yang dirasain besok tak list lagi disini**\
->**cheers 🍻**
+kalo latihan terus harapannya jadi terbiasa.
+
+*ngomongin hidup, ilmu, dan kebiasaan*
+
+>Padahal hidup adalah kata kerja. Hidup adalah perjalanan. Gerak. Kalau suatu hari pencuri menggasak perabot-perabot rumah tangga, itu adalah kemenangan, karena
+>sesudahnya kita pasti memperoleh ilmu tentang keterbatasan dan teknologi kehati-hatian sosial. Lebih mahal mana ilmu dibanding perabot? \
+>~ **Cak Nun**
+
+**kalo semisal ada lagi yang dirasain besok tak list lagi disini**\
+**cheers 🍻**
