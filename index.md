@@ -1,6 +1,6 @@
 # DIBACA BAIK BAIK!
 
-> oleh: Aji Mufti Zakaria
-> falling from the edge of the clouds 
+> oleh: Aji Mufti Zakaria \
+> right now: falling from the edge of the clouds.
 
-![IMG](
+![IMG](assets/index/hehe.png)
