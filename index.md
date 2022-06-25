@@ -1,6 +1,6 @@
-# DIBACA BAIK BAIK!
+# IMPORTANT!
 
-> oleh: Aji Mufti Zakaria \
-> right now: falling from the edge of the clouds.
+> By: Aji Mufti Zakaria \
+> Dreams: falling from the edge of the clouds.
 
 ![IMG](assets/index/hehe.png)
