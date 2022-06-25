@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Sambutan Sambutan"
+date: 2022-06-25 12:22:00 +0700
+categories: CATEGORY-1 CATEGORY-2
+---
+
+
 # Sedikit kata kata dari saya sebagai owner blog
 
 ## Kenapa mulai menulis?
