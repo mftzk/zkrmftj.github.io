@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Hasil dari sebuah pertanyaan"
+date: 2022-06-26 23:59:00 +0700
+categories: rubric
+---
 ## Hasil dari sebuah pertanyaan
 
 Sempat terbesit pikiran aneh di tengah malam, makhluk hidup selain manusia itu sebenernya bisa ngobrol ga sih? kalaupun bisa ngobrol apa yang mereka obrolin? Masak iya,
