@@ -15,5 +15,3 @@ sejak masih kecil.
 
 Aku bukan seorang filsuf atau ilmuan yang dapat menjawab pertanyaan ini, yang kutahu cuman **kebetulan yang ajaib terjadi** \
 wallahu'alam 🙏
-
-## Pelindung hari esok
