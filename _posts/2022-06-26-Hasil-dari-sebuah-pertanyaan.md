@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Hasil dari sebuah pertanyaan"
 date: 2022-06-26 23:59:00 +0700
 categories: rubric
