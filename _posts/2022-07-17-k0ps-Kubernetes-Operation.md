@@ -7,7 +7,7 @@ categories: kubernetes, kOps, technical
 # kOps sang Kubernetes Operator
 > kubernetes cluster adalah management orchestration yang sering digunakan untuk menjalankan dan menjaga lifecycle aplikasi, membuat kubernetes cluster merupakan
 > suatu tantangan bagi perusahaan maupun individual engineer, berbagai macam cara tersedia untuk membuat cluster ini, mulai dari yang ***hard way***,
-> ribet way, simple ribet way, lumayan enak way, sangat enak way. \n
+> ribet way, simple ribet way, lumayan enak way, sangat enak way. <br />
 > kOps alat pembangun kubernetes cluster yang lumayan enak way
 
 ## Apa itu kOps?
@@ -26,7 +26,7 @@ atau infrastructur yang ada di cloud. ***provision*** merupakan kata yang tepat 
 beberapa VM atau instance diatas cloud tersebut.
 
 Kita tarik waktu kebelakang, salah satu yang jadi concern dan merupakan hal yang paling penting dalam pembuatan cluster dan patut dipertanyakan "*bagaimana kOps dapat
-berkomunikasi dengan cloud?*", \n
+berkomunikasi dengan cloud?*", <br />
 *let me tell you a story*, cloud computing memiliki kemampuan mendengarkan beberapa request user dari beberapa jenis dan alat komunikasi. dashboard, command line, programatic acces,
 dan lain sebagainya, Cloud mampu menerjemahkan beberapa request dari berbagai sumber tersebut ke bahasa yang *dia* mengerti. dengan melewati API (Application Programming
 Interface).
@@ -41,7 +41,7 @@ Security Mechanism passed, baru kOps akan membuat resource resource yang dibutuh
 lain sebagainya. kemudian kOps akan menginstall aplikasi/dependecies yang dibutuhkan untuk membuat cluster di atas resource yang dibikin sebelumnya.
 
 ## Individual perspective
-membangun cluster ada beberapa cara, menggunakan EKS, atau pakai kOps atau mungkin yang lain. \n
+membangun cluster ada beberapa cara, menggunakan EKS, atau pakai kOps atau mungkin yang lain. <br />
 kOps tool yang bagus, gampang dan memiliki komunitas yang aktif, sempat takjub dengan isu yang ku submit sebelumnya, yang di fix lebih cepat dari dugaan.
 
 ## Why kOps?
