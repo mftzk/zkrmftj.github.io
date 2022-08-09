@@ -34,15 +34,15 @@ menarik nafas dan mengeluarkan seperti tidak ada beban di paru paru dan hidung, 
 kudekati monitor dalam keadaan menyala monitornya, dan kumatikan.
 
 ## Lapar yang ga jelas yang ga ada pikiran makan
-mematikan monitor dengan harapan "aku pengen makan dan ku nikmati setiap suapan, dan merasakan setiap bumbu yang dicampur di dalam masakkan,
+Mematikan monitor dengan harapan "aku pengen makan dan ku nikmati setiap suapan, dan merasakan setiap bumbu yang dicampur di dalam masakkan,
 dan mengunyahnya sampai lembut supaya tidak memberatkan tenggorokanku". ku ambil makanan dari dapur, kebetulan nasinya hangat, baru selesai dimasak nyokap.
 ku ratakan nasi yang panas itu ke piring, supaya panasnya terbagi dan menjadi hangat, kuambil sayur di wajan, yang isinya brokoli, tomat dan buncis. kuambil 
 lauk di tempat terpisah di ruang tamu, erpisah supaya tidak diambil oleh kucing kucingku. ada sambel tomat di sebelah lauk, yang kebetulan
 lauknya ayam goreng yang di tepungi.
 
-dipelajaran SD guru mengajarkan 4 sehat 5 sempurna, mungkin menu kali ini udah mencakup ketiganya, dengan sayur dan lauk yang tersedia. makan di meja
+Dipelajaran SD guru mengajarkan 4 sehat 5 sempurna, mungkin menu kali ini udah mencakup ketiganya, dengan sayur dan lauk yang tersedia. makan di meja
 tempatku bekerja, yang di depannya ada monitor yang kumatikan tadi, mejanya sempit karena harus berbagi dengan keyboard, dan beberap barang yang berserakan.
-namun alas mejaku mousepad yang luas dan lembut membuat nyaman ditangan.biasanya aku makan sambil melihat content youtube, tapi tidak kali ini, aku 
+namun alas mejaku mousepad yang luas dan lembut membuat nyaman ditangan. biasanya aku makan sambil melihat content youtube, tapi tidak kali ini, aku 
 ingin menikmati makan malamku kali ini, mungkin akan lebih indah kalau sambil menyetel music piano mozart, yang bisa membuat suasana menjadi lebih 
 enjoy dan mewah.
 
@@ -51,6 +51,7 @@ rasanya hangat gurih dan lembut, menghangatkan badan yang di kelilingi udara din
 suapan kedua dengan nasi lauk dan buncis dan tidak lupa oles sambel, rasa gurih dan hangat di lengkapi dengan rasa fresh dari buncis, dengan dorongan
 rasa pedas dari sambel. dan suapan yang lain dengan wortel dengan rasa mabis.
 
-fokus dengan merasakan makan malam ini meringankan pikiran yang semrawut, tempo pikiran yang cepat dilambatkan dengan menikmati rasa makanan yang dihidangkan.
-sekali kali berfikiran mondifkasi apalagi untuk melengkapi rasa ini. cukup menyenangkan setelah makan dan pengen berbagi,
-pengen rasanya menjadikan kebiasaan makan seperti ini.
+fokus dengan merasakan makan malam ini meringankan pikiran yang semrawut, tempo pikiran yang cepat dilambatkan dengan menikmati rasa makanan yang tercampur menjadi warna makanan yang berbeda beda, sesekali berfikiran mondifkasi apalagi untuk melengkapi rasa ini. 
+
+cukup menyenangkan rasanya setelah makan, rasanya diibaratkan aliran air bersih yang tenang mengalir diatas batu dan dibawah terik matahari yang panas.
+pengen sekali kujadikan kebiasaan.
