@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Dawn"
+date: 2023-01-17 23:11:00 +0700
+categories: rubric
+--- 
+
+# Perasaan Aneh
+Terasa jantung berhenti sejenak ketika terbayang waktu Subuh, sesaat teringat rasa tanpa memori yang terjadi di masa lalu. suatu perasaan yang membuat pikiran di kepala merasa tidak asing, bahkan aku pun tidak tahu dari mana asalnya, seolah menghadap sesuatu yang besar dan terngiang "I keep eye on you, and you decide your next move".
+
+**Dawn**<br/>
+***/dɔːn/***<br/>
+***[uncountable, countable]*** *the time of day when light first appears*
+
+![src](/assets/dawn/dawn.jpg)
