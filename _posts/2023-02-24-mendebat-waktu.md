@@ -11,6 +11,8 @@ sub-judul diatas memiliki kesamaan, yaitu waktu. waktu sendiri adalah alat untuk
 
 ## Asal usul waktu
 
+orang mesir kuno adalah orang pertama yang menciptakan 24 jam, dan matahari sebagai patokan, 
+
 ## Ketika jarak bersatuan waktu
 
 ## Pitakón
