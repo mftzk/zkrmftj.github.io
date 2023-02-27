@@ -17,4 +17,5 @@ orang mesir kuno adalah orang pertama yang menciptakan 24 jam, dan matahari seba
 aku sering menonton video tentang ruang angkasa di youtube, dan mereka menyebut jarak dengan satuan tahun cahaya, in other terms, tahun yang merupakan satuan waktu digunakan untuk satuan jarak, dan yang paling menarik adalah dengan keterlambatan cahaya tersebut kita bisa melihat apa yang terjadi dimasalalu.
 
 ## Pitakón
+emang waktu masih bisa dipercaya keberadaannya?
 
