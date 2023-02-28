@@ -26,7 +26,7 @@ dan yang paling menarik adalah tentang keterlambatan cahaya,
 ## Pitakón
 berarti yang kita lihat sekarang itu belum tentu terjadi sekarang?
 berarti ada kemungkinan bisa melihat masa depan?
-umur manusia hidup itu berapa persen sih dari waktu peralanan alam semesta ini?
+umur manusia hidup itu berapa persen sih dari waktu perjalanan alam semesta ini?
 
 ## The Answer
 ...
