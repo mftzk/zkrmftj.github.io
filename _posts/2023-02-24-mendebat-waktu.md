@@ -13,6 +13,7 @@ satu pikiran terlintas saat aku duduk di teras pada siang hari, merenungkan suas
 
 di bumi, aku menulis tulisan ini memerlukan waktu kurang lebih 3 jam dan duduk tidak pindah tempat, kalo di Galaxy Bimasakti 3 jam sudah berapa kilometer matahari pindah tempat?
 
+
 ## Asal usul waktu
 >“Dia-lah yang menjadikan matahari bersinar dan bulan bercahaya dan ditetapkan-Nya manzilah-manzilah (tempat-tempat) bagi perjalanan bulan itu, supaya kamu mengetahui bilangan tahun dan perhitungan (waktu). Allah tidak menciptakan yang demikian itu melainkan dengan hak. Dia menjelaskan tanda-tanda (kebesaran-Nya) kepada orang yang mengetahui.” (QS Yunus 10: 5)
 
@@ -29,4 +30,4 @@ berarti ada kemungkinan bisa melihat masa depan?
 umur manusia hidup itu berapa persen sih dari waktu perjalanan alam semesta ini?
 
 ## The Answer
-...
+perjalanan panjang yang sebenarnya pendek
